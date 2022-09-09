@@ -1,0 +1,32 @@
+.header__button{
+    border: 0.5px solid #E6E6E6;
+    font-family: roboto, sans-serif;
+    font-weight: 900;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    background-color: #FF79DA;
+    padding: 20px 30px 20px 30px;
+    border-radius: 30px;
+    box-shadow: 4px 4px 4px #E6E6E6;
+    margin-left: 40px;
+    }
+
+.fonctionnement__button{
+    border: 0.5px solid #E6E6E6;
+    font-family: roboto, sans-serif;
+    font-weight: 900;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    background-color:#F2F2F2;
+    padding: 20px 30px 20px 30px;
+    border-radius: 30px;
+    box-shadow: 4px 4px 4px #E6E6E6;
+    margin-left: 40px;
+    }
+
+.fonctionnement__button:hover{
+    background-color: #fed1f2;
+    transition: 0.3s;
+    }
